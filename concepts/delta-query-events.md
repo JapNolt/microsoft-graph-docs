@@ -176,6 +176,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_calendarview_delta_1-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_calendarview_delta_1-javascript-snippets.md)]
+
+---
+
 
 ### Step 2: sample second request
 
@@ -267,6 +276,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_calendarview_delta_2-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_calendarview_delta_2-javascript-snippets.md)]
+
+---
+
 
 
 ### Step 3: sample third request
@@ -337,6 +355,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_calendarview_delta_3-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_calendarview_delta_3-javascript-snippets.md)]
+
+---
+
 
 
 ### The next round: sample first request
@@ -421,6 +448,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_calendarview_delta_next-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_calendarview_delta_next-javascript-snippets.md)]
+
+---
+
 
 ## See also
 

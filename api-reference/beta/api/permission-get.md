@@ -80,6 +80,15 @@ Content-type: application/json
   "roles": [ "write" ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-item-permission-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-item-permission-javascript-snippets.md)]
+
+---
+
 
 ## Remarks
 

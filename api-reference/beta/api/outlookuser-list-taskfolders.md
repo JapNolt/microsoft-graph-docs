@@ -82,6 +82,15 @@ Content-length: 200
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_taskfolders-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_taskfolders-javascript-snippets.md)]
+
+---
+
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79
 2015-10-25 14:57:30 UTC -->

@@ -75,6 +75,15 @@ Content-length: 169
   "valueTypes": "valueTypes-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/range_usedrange-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/range_usedrange-javascript-snippets.md)]
+
+---
+
 
 Here is an example specifying the optional `valuesOnly` parameter.
 
@@ -110,6 +119,15 @@ Content-length: 169
   "valueTypes": "valueTypes-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/range_usedrange_valuesonly-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/range_usedrange_valuesonly-javascript-snippets.md)]
+
+---
+
 
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79

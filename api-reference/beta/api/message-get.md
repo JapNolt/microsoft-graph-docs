@@ -111,6 +111,15 @@ Content-length: 523
     }
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_message-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_message-javascript-snippets.md)]
+
+---
+
 
 ##### Request 2
 In the next example, the signed-in user is Dana Swope. The example shows getting the details of all the mentions in the specified message in Dana's mailbox.
@@ -267,6 +276,15 @@ Content-length: 1550
     }
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_message_in_text-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_message_in_text-javascript-snippets.md)]
+
+---
+
 
 ##### Request 4
 
@@ -324,6 +342,15 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_message_internet_headers-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_message_internet_headers-javascript-snippets.md)]
+
+---
+
 
 ## See also
 

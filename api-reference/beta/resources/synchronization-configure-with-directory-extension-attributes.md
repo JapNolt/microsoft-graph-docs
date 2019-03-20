@@ -187,6 +187,15 @@ HTTP/1.1 200 OK
 		}]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_synchronizationschema-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_synchronizationschema-javascript-snippets.md)]
+
+---
+
 
 ## Add a definition for the directory extension attribute, and a mapping between the attributes
 

@@ -41,6 +41,15 @@ GET /sites/{site-id}/pages/{page-id}
 ```http
 GET /sites/{site-id}/pages/{page-id}
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-page-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-page-javascript-snippets.md)]
+
+---
+
 
 ##### Response
 

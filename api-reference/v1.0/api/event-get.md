@@ -178,6 +178,15 @@ Content-length: 1928
     }
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_event-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_event-javascript-snippets.md)]
+
+---
+
 
 
 ##### Request 2
@@ -297,6 +306,15 @@ Content-length: 1992
   }
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_event_multiple_locations-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_event_multiple_locations-javascript-snippets.md)]
+
+---
+
 
 
 

@@ -82,6 +82,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/synchronizationschema_filteroperators-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/synchronizationschema_filteroperators-javascript-snippets.md)]
+
+---
+
 <!--
 Below is the full response, which had to be redacted above as Markdown Scanner tool trips over "type" values containing 
 non-string type names like "Integer" or "Boolean"

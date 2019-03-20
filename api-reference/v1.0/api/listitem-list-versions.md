@@ -47,6 +47,15 @@ This example retrieves the versions of a listItem in a SharePoint list:
 ```http
 GET /sites/{site-id}/lists/{list-id}/items/{item-id}/versions
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-previous-versions-listitem-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-previous-versions-listitem-javascript-snippets.md)]
+
+---
+
 
 ### Response
 

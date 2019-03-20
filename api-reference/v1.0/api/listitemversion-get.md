@@ -69,6 +69,15 @@ Content-Type: application/json
     "fields": {  }
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-single-version-listItem-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-single-version-listItem-javascript-snippets.md)]
+
+---
+
 
 <!-- {
   "type": "#page.annotation",

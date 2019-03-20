@@ -135,6 +135,15 @@ Content-type: application/json
     "size": 12019
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/lro-copy-item-example-complete-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/lro-copy-item-example-complete-javascript-snippets.md)]
+
+---
+
 
 ## Supported resources
 

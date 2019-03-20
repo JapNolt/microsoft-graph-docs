@@ -47,6 +47,15 @@ GET /sites/{site-id}/lists/{list-id}/items/{item-id}/analytics
 ```http
 GET /drives/{drive-id}/items/{item-id}/analytics
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-analytics-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-analytics-javascript-snippets.md)]
+
+---
+
 
 #### Response
 

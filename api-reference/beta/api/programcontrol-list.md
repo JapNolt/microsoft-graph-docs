@@ -73,6 +73,15 @@ Content-type: application/json
 }
 
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_programControl-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_programControl-javascript-snippets.md)]
+
+---
+
 
 ## See also
 

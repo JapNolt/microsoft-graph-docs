@@ -79,6 +79,15 @@ Content-length: 201
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_schemaextension-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_schemaextension-javascript-snippets.md)]
+
+---
+
 
 ## See also
 

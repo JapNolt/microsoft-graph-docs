@@ -25,6 +25,15 @@ Content-Type: application/json
 {
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_current_user-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_current_user-javascript-snippets.md)]
+
+---
+
 
 
 ## Define drives as an queryable entityset
@@ -41,6 +50,15 @@ Content-Type: application/json
 {
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_drive_from_id-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_drive_from_id-javascript-snippets.md)]
+
+---
+
 
 
 ## define users as an queryable entityset

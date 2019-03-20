@@ -161,6 +161,15 @@ Content-length: 1370
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_person_collection-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_person_collection-javascript-snippets.md)]
+
+---
+
 
 For more examples, see the article [Get relevant information about people](/graph/people-example).
 

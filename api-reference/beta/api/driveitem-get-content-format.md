@@ -57,6 +57,15 @@ The following values are valid for the **format** parameter:
 ```http
 GET /drive/items/{item-id}/content?format={format}
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/convert-item-content-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/convert-item-content-javascript-snippets.md)]
+
+---
+
 
 ## Response
 

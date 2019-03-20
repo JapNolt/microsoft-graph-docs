@@ -111,6 +111,15 @@ Content-type: application/json
      ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/securescorecontrolprofiles_list-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/securescorecontrolprofiles_list-javascript-snippets.md)]
+
+---
+
 
 
 <!--

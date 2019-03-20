@@ -108,6 +108,15 @@ HTTP/1.1 302 Found
 Content-Type: text/plain
 Location: https://reports.office.com/data/download/JDFKdf2_eJXKS034dbc7e0t__XDe
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/reportroot_getmailboxusagedetail_csv-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/reportroot_getmailboxusagedetail_csv-javascript-snippets.md)]
+
+---
+
 
 Follow the 302 redirection and the CSV file that downloads will have the following schema.
 
@@ -179,6 +188,15 @@ Content-Length: 526
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/reportroot_getmailboxusagedetail_json-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/reportroot_getmailboxusagedetail_json-javascript-snippets.md)]
+
+---
+
 <!--
 {
   "type": "#page.annotation",

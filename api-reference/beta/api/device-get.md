@@ -75,6 +75,15 @@ Content-length: 322
   "deviceVersion": 99
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_device-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_device-javascript-snippets.md)]
+
+---
+
 
 ## See also
 

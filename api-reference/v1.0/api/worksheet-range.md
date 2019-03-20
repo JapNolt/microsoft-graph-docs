@@ -73,6 +73,15 @@ Content-length: 169
   "valueTypes": "valueTypes-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/worksheet_range-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/worksheet_range-javascript-snippets.md)]
+
+---
+
 
 If the optional `address` parameter is not specified, this function returns the entire worksheet range.
 
@@ -107,6 +116,15 @@ Content-length: 169
   "valueTypes": "valueTypes-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/worksheet_range_noaddress-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/worksheet_range_noaddress-javascript-snippets.md)]
+
+---
+
 
 
 <!-- uuid: 8fcb5dbc-d5aa-4681-8e31-b001d5168d79

@@ -146,6 +146,15 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/user_delta-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/user_delta-javascript-snippets.md)]
+
+---
+
 
 #### Request 2
 
@@ -186,6 +195,19 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/user_delta-C#-snippets.md)]
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/user_delta-javascript-snippets.md)]
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/user_delta-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/user_delta-javascript-snippets.md)]
+
+---
+
 
 #### Request 3
 

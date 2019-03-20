@@ -67,6 +67,15 @@ Here is an example of the request which retrieves available thumbnails for an it
 ```http
 GET /me/drive/items/{item-id}/thumbnails
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/enum-item-thumbnails-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/enum-item-thumbnails-javascript-snippets.md)]
+
+---
+
 
 This returns an array of available **thumbnailSets** for the item. 
 Any item in a drive can have zero or more thumbnails.
@@ -127,6 +136,15 @@ Content-Type: application/json
   "url": "https://onedrive.com/asd123a/asdjlkasjdkasdjlk.jpg"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-one-thumbnail-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-one-thumbnail-javascript-snippets.md)]
+
+---
+
 
 ## Retrieve thumbnail binary content
 
@@ -150,6 +168,15 @@ The service responds with a redirect to the thumbnail URL.
 HTTP/1.1 302 Found
 Location: https://b0mpua-by3301.files.1drv.com/y23vmagahszhxzlcvhasdhasghasodfi
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-thumbnail-content-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-thumbnail-content-javascript-snippets.md)]
+
+---
+
 
 Thumbnail URLs are cache-safe. The URL will change, if the item changes in a way that requires a new thumbnail to be generated.
 
@@ -206,6 +233,15 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-thumbnail-while-listing-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-thumbnail-while-listing-javascript-snippets.md)]
+
+---
+
 
 ## Size values
 
@@ -249,6 +285,15 @@ Content-Type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-thumbnail-custom-size-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get-thumbnail-custom-size-javascript-snippets.md)]
+
+---
+
 
 You can specify the following options after the size of the thumbnail requested:
 

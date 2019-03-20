@@ -136,6 +136,15 @@ Content-type: application/json
     }
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_message-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_message-javascript-snippets.md)]
+
+---
+
 
 ##### Request 2
 The next example uses a `$select` query parameter to get the Internet message headers of a message. 
@@ -182,6 +191,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_message_headers-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_message_headers-javascript-snippets.md)]
+
+---
+
 
 
 ## See also

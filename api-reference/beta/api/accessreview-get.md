@@ -93,6 +93,15 @@ Content-type: application/json
     }
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_accessReview-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_accessReview-javascript-snippets.md)]
+
+---
+
 
 ## See also
 

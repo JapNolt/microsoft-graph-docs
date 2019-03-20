@@ -176,6 +176,19 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/directoryObject_delta-C#-snippets.md)]
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/directoryObject_delta-javascript-snippets.md)]
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/user_delta-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/user_delta-javascript-snippets.md)]
+
+---
+
 
 ### Request 2
 
@@ -292,6 +305,15 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/directoryobject_delta-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/directoryobject_delta-javascript-snippets.md)]
+
+---
+
 
 - [Use delta query to track changes in Microsoft Graph data](/graph/delta-query-overview).
 - [Get incremental changes for users](/graph/delta-query-users).

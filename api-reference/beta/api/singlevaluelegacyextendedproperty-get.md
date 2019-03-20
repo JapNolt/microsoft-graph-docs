@@ -358,6 +358,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_singlevaluelegacyextendedproperty_1-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_singlevaluelegacyextendedproperty_1-javascript-snippets.md)]
+
+---
+
 
 #### Request 2
 

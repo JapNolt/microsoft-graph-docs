@@ -69,6 +69,15 @@ Content-length: 46
   "name": "name-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_workbookpivottable-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_workbookpivottable-javascript-snippets.md)]
+
+---
+
 <!--
 {
   "type": "#page.annotation",

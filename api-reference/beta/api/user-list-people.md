@@ -171,6 +171,15 @@ Content-length: 1326
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_person_collection_beta-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/get_person_collection_beta-javascript-snippets.md)]
+
+---
+
 
 #### Requesting a subsequent page of people
 

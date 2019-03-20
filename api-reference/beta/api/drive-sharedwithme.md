@@ -75,6 +75,15 @@ Content-Type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/shared-with-me-C#-snippets.md)]
+
+# [javascript](#tab/javascript)
+[!INCLUDE [Sample Code]( ../includes/shared-with-me-javascript-snippets.md)]
+
+---
+
 
 ## Remarks
 
